@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with an uber-inquisitiv
 
 ## 🌱 What I'm Currently Working On
 
-- **[e-commerce API](https://github.com/jenplanque/hyrule_heros)**:
+- **[Hyrule Heroes](https://github.com/jenplanque/hyrule_heros)**:
 A strategic turn-based CLI game inspired by Zelda's BOTW where players battle as one of the four champions against the evil Ganon.
 - **Learning**: Diving deeper into HTML, CSS, SQL Alchemy and API's 😜
 
