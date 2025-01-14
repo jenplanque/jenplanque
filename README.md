@@ -1,14 +1,16 @@
 
-# Hi there, I'm Jen Planque 👋
+# Hi there, I'm Jen Planque! 👋 
+## aka - the 'PNW Programmer'
 
 Welcome to my GitHub profile! I'm a passionate developer with an uber-inquisitive mind, and a keen interest in web development, machine learning, and open-source contributions.
 
 
 ## 🌱 What I'm Currently Working On
 
-- **[Hyrule Heroes](https://github.com/jenplanque/hyrule_heros)**:
-A strategic turn-based CLI game inspired by Zelda's BOTW where players battle as one of the four champions against the evil Ganon.
-- **Learning**: Diving deeper into HTML, CSS, SQL Alchemy and API's 😜
+- **[E-Commerce API](https://github.com/jenplanque/ecommerce_API)**:
+built using Flask, SQLAlchemy, Marshmallow and MySQL, and designed to facilitate the online shopping experience at a local coffee shop that is loosely based on the 1990's - early 2000's sitcom, [FRIENDS](https://www.imdb.com/title/tt0108778/).
+
+- **Learning**: I am actively engaged in a 6-month Full Stack Software Developer bootcamp where we are currently doing a Front End deep dive into HTML, CSS and JavaScript, just to name a few. 😜
 
 
 ## 🚀 Skills
