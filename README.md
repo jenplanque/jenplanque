@@ -2,20 +2,24 @@
 # Hi there, I'm Jen Planque! 👋 
 ## aka - the 'PNW Programmer'
 
-Welcome to my GitHub profile! I'm a passionate developer with an uber-inquisitive mind, and a keen interest in web development, machine learning, and open-source contributions.
+Welcome to my GitHub profile! I'm a passionate developer with an uber-inquisitive mind and a keen interest in software development, web design, AI/machine learning and open-source contributions.
 
 
-## 🌱 What I'm Currently Working On
+## 💡 Currently Working On
 
+- **[Event Center website](https://github.com/jenplanque/event_site_portland.git):**
+building a multi-page interactive website for an event center of my choosing for Module 4 of my [Coding Temple](https://www.codingtemple.com) software development bootcamp using HTML & CSS  
+
+- **Learning** 🧠: I am actively engaged in a 6-month Full Stack Software Developer bootcamp where we are currently doing a Front End deep dive into HTML, CSS, JavaScript and REACT Native, just to name a few. 😜
+
+## 🏆 Recent Accomplishments  
 - **[E-Commerce API](https://github.com/jenplanque/ecommerce_API)**:
-built using Flask, SQLAlchemy, Marshmallow and MySQL, and designed to facilitate the online shopping experience at a local coffee shop that is loosely based on the 1990's - early 2000's sitcom, [FRIENDS](https://www.imdb.com/title/tt0108778/).
-
-- **Learning**: I am actively engaged in a 6-month Full Stack Software Developer bootcamp where we are currently doing a Front End deep dive into HTML, CSS and JavaScript, just to name a few. 😜
+built an e-commerce API using Flask, SQLAlchemy, Marshmallow and MySQL that was designed to facilitate the online shopping experience at a local coffee shop 
 
 
 ## 🚀 Skills
 
-- **Languages**: Python, HTML, CSS, Javascript
+- **Languages**: Python, HTML, CSS, Javascript, SQL
 - **Frameworks & Libraries**: React, Node.js, Express, Django
 
 
